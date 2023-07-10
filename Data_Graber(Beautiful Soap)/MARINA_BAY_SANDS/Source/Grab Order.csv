@@ -1,0 +1,2 @@
+﻿#,Site URL,Target Data,Example Selector XPath,Return Data
+1,https://www.marinabaysands.com/restaurants/fine-dining.html,"Restaurant Data on list, and drill down for “View Restaurant” link",/html/body/main/div[2]/section[4]/div/div[2]/div/ul/li[4]/div,"[“Restaurant Name”, Location, Phone Number, “View Restaurant” page URL, Description]"

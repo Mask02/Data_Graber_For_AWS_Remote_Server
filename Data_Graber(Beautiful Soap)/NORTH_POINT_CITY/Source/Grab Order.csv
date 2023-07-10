@@ -1,0 +1,2 @@
+﻿#,Site URL,Target Data,Example Selector XPath,Return Data
+1,https://www.northpointcity.com.sg/store.php?CategoryFilter=43&WingFilter=&FRPointsFilter=&GCFilter=&HalalFilter=&NewStoresFilter=&Node=&CategoryID=594,"Restaurant Data on list, and drill down for details link.",/html/body/div[2]/section/div[2]/div[2],"[“Restaurant Name”, Location, Phone Number, “View Restaurant” page URL, Description]"

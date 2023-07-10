@@ -1,0 +1,3 @@
+﻿#,Site URL,Target Data,Example Selector XPath,Return Data
+1,https://www.fareastmalls.com.sg/junction-10/Shops?s=,"All shop or restaurant and its detail page. Need ot click ""Load more"" for see more item on the list","//*[@id=""b-store""]/div[2]/div[2]","[“Restaurant Name”, Location, Phone Number, “View Restaurant” page URL, Description]"
+2,https://www.fareastmalls.com.sg/west-coast-plaza/Shops?s=,"All shop or restaurant and its detail page. Need ot click ""Load more"" for see more item on the list","//*[@id=""b-store""]/div[2]/div[2]","[“Restaurant Name”, Location, Phone Number, “View Restaurant” page URL, Description]"
